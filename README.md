@@ -94,6 +94,7 @@ Step 1: Set environment variable in app service.
 
 After you deploy it, browse to the web app. You should see the secret on the web page.
 
+test
 ## How to use AzureCliCredential
 There are 2 approaches to use `AzureCliCredential`. First way is create `AzureCliCredential` directly, the other way is use `AzureCliCredential` which is chained in `DefaultAzureCredential`.
 1. Create `AzureCliCredential` directly.
